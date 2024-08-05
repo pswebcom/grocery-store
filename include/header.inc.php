@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <header class="header-with-background" style="background-image: url('images/pexels-julia-volk-5273044.jpg')">
+    <header class="header-with-background" style="background-image: url('<?php echo $headerImg?>')">
         <h1>Culinary Cove</h1>
         <p>Your sanctuary for exceptional flavors</p>
         <nav>
@@ -19,5 +19,7 @@
             <a href="ingredients.php">Ingredients</a>
         </nav>
     </header>
+
+
 
     <main>

@@ -1,5 +1,6 @@
 <?php
 $pageTitle = 'Ingredients';
+$headerImg = 'images/pexels-engin-akyurt-1435904.jpg';
 include 'include/header.inc.php'
 ?>
 
