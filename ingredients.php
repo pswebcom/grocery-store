@@ -1,4 +1,7 @@
-<?php include 'include/header.inc.php' ?>
+<?php
+$pageTitle = 'Ingredients';
+include 'include/header.inc.php'
+?>
 
 <h1>Ingredients</h1>
 <p>

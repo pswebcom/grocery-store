@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles/simple.css" />
     <link rel="stylesheet" href="./styles/custom.css" />
-    <title>Culinary Cove &bull; Our mission</title>
+    <title>Culinary Cove &bull; <?php echo $pageTitle;?> </title>
+
 </head>
 
 <body>
